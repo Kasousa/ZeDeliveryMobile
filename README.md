@@ -1,6 +1,8 @@
 # ZeDeliveryMobile  
 Projeto de automação de testes mobile, escrito em JAVA, para testes da aplicação Zé Delivery  
 
+[Arquivo com a primeira parte do teste!](https://github.com/Kasousa/ZeDeliveryMobile/blob/master/QAChallenge.docx)
+
 ## Instalação  
 
 1 - Clone o projeto do git com o comando:  
