@@ -1,10 +1,10 @@
 # WeatherBackEnd  
-Projeto de automação de testes de back end, escrito em JAVA, para testes da API Open Weather  
+Projeto de automação de testes mobile, escrito em JAVA, para testes da aplicação Zé Delivery  
 
 ## Instalação  
 
 1 - Clone o projeto do git com o comando:  
-**git clone https://github.com/Kasousa/WeatherBackEnd.git**  
+**git clone https://github.com/Kasousa/ZeDeliveryMobile.git**  
 2 - Utilize a IDE de sua preferência, Eclipse, Intelij.. importando o projeto como maven e aguardando serem baixadas todas as dependências  
 
 ## Execução
