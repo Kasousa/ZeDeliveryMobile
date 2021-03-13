@@ -1,4 +1,4 @@
-# WeatherBackEnd  
+# ZeDeliveryMobile  
 Projeto de automação de testes mobile, escrito em JAVA, para testes da aplicação Zé Delivery  
 
 ## Instalação  
@@ -20,15 +20,13 @@ Projeto de automação de testes mobile, escrito em JAVA, para testes da aplica�
     - test
         - java
             - org.zedelivery
-                - ApiDoc -> Tratamento dos arquivos pertinentes a documentação da API
-                - ApiEngine -> Modelos de Request e Response da API
-                - Cucumber -> Classes de contexto para os cenários
-                - DataProvider -> Classe de leitura das configurações
-                - Enums -> Enums do framework
-                - Feature -> Arquivos .feature com o BDD do Cucumber
-                - Steps -> Classes contendo os passos dos testes
-                - Support -> Classes de suporte dos testes 
-                - BaseTest -> Classe base do Cucumber para execução dos testes
+                - actions -> Classes com as ações (Cliques, Escritas, Swipes)
+                - dataProvider -> Pasta com a classe que gerencia os dados do framework
+                - features -> Arquivos .feature com a escrita BDD do Cucumber
+                - screens -> Classes com a declaração dos elementos
+                - steps -> Classes com o passo a passo dos testes
+                - support -> Classes de suporte
+                - BaseTest -> Classe para execução dos testes do Cucumber
         - resources
             - massa -> Pasta com os arquivos de massas de dados utilizadas no teste
             - properties -> Pasta com arquivo de propriedades do framework
